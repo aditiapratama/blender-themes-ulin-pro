@@ -21,14 +21,14 @@
           </ThemeWidgetColors>
         </wcol_regular>
         <wcol_tool>
-          <ThemeWidgetColors outline="#595959"
-                             inner="#333333ff"
+          <ThemeWidgetColors outline="#494949"
+                             inner="#808080ff"
                              inner_sel="#f49c1cff"
                              item="#494949ff"
-                             text="#f2f2f2"
-                             text_sel="#000000"
+                             text="#000000"
+                             text_sel="#f2f2f2"
                              show_shaded="TRUE"
-                             shadetop="5"
+                             shadetop="10"
                              shadedown="0">
           </ThemeWidgetColors>
         </wcol_tool>
@@ -47,13 +47,13 @@
         <wcol_text>
           <ThemeWidgetColors outline="#494949"
                              inner="#333333ff"
-                             inner_sel="#f49c1cff"
+                             inner_sel="#333333ff"
                              item="#595959ff"
                              text="#f2f2f2"
-                             text_sel="#000000"
-                             show_shaded="FALSE"
-                             shadetop="-4"
-                             shadedown="4">
+                             text_sel="#f2f2f2"
+                             show_shaded="TRUE"
+                             shadetop="-10"
+                             shadedown="20">
           </ThemeWidgetColors>
         </wcol_text>
         <wcol_option>
@@ -69,15 +69,15 @@
           </ThemeWidgetColors>
         </wcol_option>
         <wcol_toggle>
-          <ThemeWidgetColors outline="#1a1a1a"
-                             inner="#666666ff"
+          <ThemeWidgetColors outline="#494949"
+                             inner="#808080ff"
                              inner_sel="#f49c1cff"
-                             item="#d0d0d0ff"
-                             text="#f2f2f2"
+                             item="#494949ff"
+                             text="#000000"
                              text_sel="#000000"
                              show_shaded="FALSE"
-                             shadetop="27"
-                             shadedown="-8">
+                             shadetop="10"
+                             shadedown="0">
           </ThemeWidgetColors>
         </wcol_toggle>
         <wcol_num>
@@ -370,7 +370,7 @@
           <ThemeSpaceListGeneric list="#595959"
                                  list_title="#676767"
                                  list_text="#ffffff"
-                                 list_text_hi="#ff8c00">
+                                 list_text_hi="#ffcb80">
           </ThemeSpaceListGeneric>
         </space_list>
       </ThemeGraphEditor>
@@ -520,7 +520,7 @@
           <ThemeSpaceListGeneric list="#595959"
                                  list_title="#000000"
                                  list_text="#ffffff"
-                                 list_text_hi="#f49c1c">
+                                 list_text_hi="#ffcb80">
           </ThemeSpaceListGeneric>
         </space_list>
       </ThemeDopeSheet>
@@ -885,7 +885,7 @@
                              title="#000000"
                              text="#ffffff"
                              text_hi="#ffffff"
-                             header="#808080"
+                             header="#595959"
                              header_text="#d3d2cd"
                              header_text_hi="#808080"
                              button="#262626ff"
@@ -954,7 +954,7 @@
                        frame_current="#ff8c00"
                        handle_vertex="#000000"
                        handle_vertex_select="#ffff00"
-                       handle_vertex_size="4"
+                       handle_vertex_size="5"
                        strips="#0c0a0a"
                        strips_selected="#ff8c00"
                        handle_free="#000000"
