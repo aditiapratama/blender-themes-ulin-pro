@@ -142,9 +142,9 @@
         </wcol_pulldown>
         <wcol_menu_back>
           <ThemeWidgetColors outline="#8e8e8e"
-                             inner="#404040cc"
-                             inner_sel="#404040cc"
-                             item="#404040cc"
+                             inner="#404040e6"
+                             inner_sel="#404040e6"
+                             item="#404040e6"
                              text="#f2f2f2"
                              text_sel="#f2f2f2"
                              show_shaded="FALSE"
@@ -315,7 +315,7 @@
       </ThemeView3D>
     </view_3d>
     <graph_editor>
-      <ThemeGraphEditor grid="#595959"
+      <ThemeGraphEditor grid="#404040"
                         frame_current="#ff8c00"
                         window_sliders="#000000"
                         channels_region="#707070"
@@ -323,9 +323,9 @@
                         dopesheet_subchannel="#4982d4"
                         channel_group="#000000"
                         active_channels_group="#0c3f00"
-                        vertex="#1a110d"
+                        vertex="#5fa1ff"
                         vertex_select="#ffcb80"
-                        vertex_size="4"
+                        vertex_size="5"
                         vertex_unreferenced="#000000"
                         handle_free="#000000"
                         handle_auto="#696969"
@@ -340,12 +340,12 @@
                         lastsel_point="#000000"
                         handle_vertex="#333333"
                         handle_vertex_select="#f1f1f1"
-                        handle_vertex_size="4">
+                        handle_vertex_size="7">
         <space>
-          <ThemeSpaceGeneric back="#666666"
+          <ThemeSpaceGeneric back="#4d4d4d"
                              title="#000000"
                              text="#000000"
-                             text_hi="#ffffff"
+                             text_hi="#333333"
                              header="#808080"
                              header_text="#000000"
                              header_text_hi="#ffffff"
