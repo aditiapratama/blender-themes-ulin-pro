@@ -281,7 +281,9 @@
                    outline_width="1"
                    bundle_solid="#c8c8c8"
                    camera_path="#000000"
-                   skin_root="#000000">
+                   skin_root="#000000"
+                   paint_curve_handle="#7fff7f7f"
+                   paint_curve_pivot="#ff7f7f7f">
         <space>
           <ThemeSpaceGradient title="#1f1f1f"
                               text="#000000"
@@ -299,8 +301,8 @@
                               tab_outline="#333333">
             <gradients>
               <ThemeGradientColors show_grad="TRUE"
-                                   gradient="#404040"
-                                   high_gradient="#666461">
+                                   gradient="#333333"
+                                   high_gradient="#808080">
               </ThemeGradientColors>
             </gradients>
             <panelcolors>
@@ -315,7 +317,7 @@
       </ThemeView3D>
     </view_3d>
     <graph_editor>
-      <ThemeGraphEditor grid="#404040"
+      <ThemeGraphEditor grid="#595959"
                         frame_current="#ff8c00"
                         window_sliders="#000000"
                         channels_region="#707070"
@@ -323,9 +325,9 @@
                         dopesheet_subchannel="#4982d4"
                         channel_group="#000000"
                         active_channels_group="#0c3f00"
-                        vertex="#5fa1ff"
+                        vertex="#1a110d"
                         vertex_select="#ffcb80"
-                        vertex_size="5"
+                        vertex_size="4"
                         vertex_unreferenced="#000000"
                         handle_free="#000000"
                         handle_auto="#696969"
@@ -340,12 +342,12 @@
                         lastsel_point="#000000"
                         handle_vertex="#333333"
                         handle_vertex_select="#f1f1f1"
-                        handle_vertex_size="7">
+                        handle_vertex_size="4">
         <space>
-          <ThemeSpaceGeneric back="#4d4d4d"
+          <ThemeSpaceGeneric back="#666666"
                              title="#000000"
                              text="#000000"
-                             text_hi="#333333"
+                             text_hi="#ffffff"
                              header="#808080"
                              header_text="#000000"
                              header_text_hi="#ffffff"
@@ -555,7 +557,9 @@
                         handle_sel_auto="#f0ff40"
                         handle_sel_align="#f090a0"
                         handle_auto_clamped="#000000"
-                        handle_sel_auto_clamped="#000000">
+                        handle_sel_auto_clamped="#000000"
+                        paint_curve_handle="#7fff7f7f"
+                        paint_curve_pivot="#ff7f7f7f">
         <space>
           <ThemeSpaceGeneric back="#333333"
                              title="#000000"
