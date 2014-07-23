@@ -93,15 +93,15 @@
           </ThemeWidgetColors>
         </wcol_num>
         <wcol_numslider>
-          <ThemeWidgetColors outline="#393939"
-                             inner="#808080ff"
-                             inner_sel="#444444ff"
-                             item="#f49c1cff"
-                             text="#000000"
-                             text_sel="#f2f2f2"
+          <ThemeWidgetColors outline="#666666"
+                             inner="#595959ff"
+                             inner_sel="#f49c1cff"
+                             item="#393939ff"
+                             text="#f2f2f2"
+                             text_sel="#000000"
                              show_shaded="FALSE"
-                             shadetop="63"
-                             shadedown="17">
+                             shadetop="6"
+                             shadedown="-10">
           </ThemeWidgetColors>
         </wcol_numslider>
         <wcol_box>
@@ -281,9 +281,7 @@
                    outline_width="1"
                    bundle_solid="#c8c8c8"
                    camera_path="#000000"
-                   skin_root="#000000"
-                   paint_curve_handle="#7fff7f7f"
-                   paint_curve_pivot="#ff7f7f7f">
+                   skin_root="#000000">
         <space>
           <ThemeSpaceGradient title="#1f1f1f"
                               text="#000000"
@@ -557,9 +555,7 @@
                         handle_sel_auto="#f0ff40"
                         handle_sel_align="#f090a0"
                         handle_auto_clamped="#000000"
-                        handle_sel_auto_clamped="#000000"
-                        paint_curve_handle="#7fff7f7f"
-                        paint_curve_pivot="#ff7f7f7f">
+                        handle_sel_auto_clamped="#000000">
         <space>
           <ThemeSpaceGeneric back="#333333"
                              title="#000000"
