@@ -14,7 +14,7 @@
                              inner_sel="#f49c1cff"
                              item="#494949ff"
                              text="#000000"
-                             text_sel="#000000"
+                             text_sel="#333333"
                              show_shaded="FALSE"
                              shadetop="27"
                              shadedown="-7">
@@ -26,7 +26,7 @@
                              inner_sel="#f49c1cff"
                              item="#494949ff"
                              text="#000000"
-                             text_sel="#f2f2f2"
+                             text_sel="#333333"
                              show_shaded="TRUE"
                              shadetop="10"
                              shadedown="0">
@@ -51,7 +51,7 @@
                              item="#595959ff"
                              text="#f2f2f2"
                              text_sel="#f2f2f2"
-                             show_shaded="TRUE"
+                             show_shaded="FALSE"
                              shadetop="-10"
                              shadedown="20">
           </ThemeWidgetColors>
@@ -225,12 +225,12 @@
       </ThemeUserInterface>
     </user_interface>
     <view_3d>
-      <ThemeView3D grid="#746f68"
-                   wire="#9c9c9c"
+      <ThemeView3D grid="#595959"
+                   wire="#e6e6e6"
                    wire_edit="#000000"
-                   lamp="#b5b5b528"
+                   lamp="#e6e6e6ff"
                    speaker="#000000"
-                   camera="#1f1f1f"
+                   camera="#e6e6e6"
                    view_overlay="#000000"
                    empty="#000000"
                    object_selected="#c54620"
@@ -299,8 +299,8 @@
                               tab_outline="#333333">
             <gradients>
               <ThemeGradientColors show_grad="TRUE"
-                                   gradient="#333333"
-                                   high_gradient="#808080">
+                                   gradient="#1a1a1a"
+                                   high_gradient="#b3b3b3">
               </ThemeGradientColors>
             </gradients>
             <panelcolors>
