@@ -152,6 +152,18 @@
                              shadedown="40">
           </ThemeWidgetColors>
         </wcol_menu_back>
+        <wcol_pie_menu>
+          <ThemeWidgetColors outline="#666666"
+                             inner="#333333ff"
+                             inner_sel="#f49c1cff"
+                             item="#f49c1ce6"
+                             text="#b3b3b3"
+                             text_sel="#1f1f1f"
+                             show_shaded="FALSE"
+                             shadetop="10"
+                             shadedown="-10">
+          </ThemeWidgetColors>
+        </wcol_pie_menu>
         <wcol_tooltip>
           <ThemeWidgetColors outline="#262626"
                              inner="#ffec81ff"
@@ -281,7 +293,9 @@
                    outline_width="1"
                    bundle_solid="#c8c8c8"
                    camera_path="#000000"
-                   skin_root="#000000">
+                   skin_root="#000000"
+                   paint_curve_handle="#7fff7f7f"
+                   paint_curve_pivot="#ff7f7f7f">
         <space>
           <ThemeSpaceGradient title="#1f1f1f"
                               text="#000000"
@@ -555,7 +569,12 @@
                         handle_sel_auto="#f0ff40"
                         handle_sel_align="#f090a0"
                         handle_auto_clamped="#000000"
-                        handle_sel_auto_clamped="#000000">
+                        handle_sel_auto_clamped="#000000"
+                        handle_vertex="#000000"
+                        handle_vertex_select="#ffff00"
+                        handle_vertex_size="5"
+                        paint_curve_handle="#7fff7f7f"
+                        paint_curve_pivot="#ff7f7f7f">
         <space>
           <ThemeSpaceGeneric back="#333333"
                              title="#000000"
@@ -952,9 +971,6 @@
                        path_after="#0000ff"
                        grid="#5e5e5e"
                        frame_current="#ff8c00"
-                       handle_vertex="#000000"
-                       handle_vertex_select="#ffff00"
-                       handle_vertex_size="5"
                        strips="#0c0a0a"
                        strips_selected="#ff8c00"
                        handle_free="#000000"
@@ -964,7 +980,10 @@
                        handle_sel_auto="#f0ff40"
                        handle_sel_align="#f090a0"
                        handle_auto_clamped="#000000"
-                       handle_sel_auto_clamped="#000000">
+                       handle_sel_auto_clamped="#000000"
+                       handle_vertex="#000000"
+                       handle_vertex_select="#ffff00"
+                       handle_vertex_size="5">
         <space>
           <ThemeSpaceGeneric back="#000000"
                              title="#1a1a1a"
