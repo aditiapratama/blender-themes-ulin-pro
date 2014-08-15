@@ -743,12 +743,12 @@
       </ThemeTimeline>
     </timeline>
     <node_editor>
-      <ThemeNodeEditor node_selected="#ffffff"
-                       node_active="#ffffff"
+      <ThemeNodeEditor node_selected="#80520f"
+                       node_active="#f49c1c"
                        wire="#000000"
                        wire_select="#ffffff"
                        selected_text="#ffffff"
-                       node_backdrop="#9b9b9ba0"
+                       node_backdrop="#808080ff"
                        converter_node="#001a66"
                        color_node="#6f1111"
                        group_node="#20402d"
@@ -769,7 +769,7 @@
         <space>
           <ThemeSpaceGeneric back="#3b3b3b"
                              title="#000000"
-                             text="#cccccc"
+                             text="#e6e6e6"
                              text_hi="#ffffff"
                              header="#808080"
                              header_text="#000000"
