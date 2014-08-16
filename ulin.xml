@@ -62,7 +62,7 @@
                              inner_sel="#f49c1cff"
                              item="#000000ff"
                              text="#262626"
-                             text_sel="#000000"
+                             text_sel="#e6e6e6"
                              show_shaded="FALSE"
                              shadetop="-9"
                              shadedown="4">
@@ -94,9 +94,9 @@
         </wcol_num>
         <wcol_numslider>
           <ThemeWidgetColors outline="#1a1a1a"
-                             inner="#333333ff"
+                             inner="#4d4d4dff"
                              inner_sel="#80520fff"
-                             item="#4d4d4dff"
+                             item="#333333ff"
                              text="#cccccc"
                              text_sel="#cccccc"
                              show_shaded="FALSE"
@@ -743,12 +743,12 @@
       </ThemeTimeline>
     </timeline>
     <node_editor>
-      <ThemeNodeEditor node_selected="#80520f"
+      <ThemeNodeEditor node_selected="#f15800"
                        node_active="#f49c1c"
                        wire="#000000"
                        wire_select="#ffffff"
                        selected_text="#ffffff"
-                       node_backdrop="#808080ff"
+                       node_backdrop="#808080e6"
                        converter_node="#001a66"
                        color_node="#6f1111"
                        group_node="#20402d"
@@ -774,7 +774,7 @@
                              header="#808080"
                              header_text="#000000"
                              header_text_hi="#000000"
-                             button="#595959b3"
+                             button="#595959ff"
                              button_title="#000000"
                              button_text="#000000"
                              button_text_hi="#000000"
