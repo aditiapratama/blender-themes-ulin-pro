@@ -14,10 +14,10 @@
                              inner_sel="#f49c1cff"
                              item="#666666ff"
                              text="#1a1a1a"
-                             text_sel="#cccccc"
-                             show_shaded="FALSE"
-                             shadetop="27"
-                             shadedown="-7">
+                             text_sel="#000000"
+                             show_shaded="TRUE"
+                             shadetop="20"
+                             shadedown="-10">
           </ThemeWidgetColors>
         </wcol_regular>
         <wcol_tool>
@@ -27,9 +27,9 @@
                              item="#494949ff"
                              text="#000000"
                              text_sel="#333333"
-                             show_shaded="FALSE"
-                             shadetop="10"
-                             shadedown="0">
+                             show_shaded="TRUE"
+                             shadetop="20"
+                             shadedown="-10">
           </ThemeWidgetColors>
         </wcol_tool>
         <wcol_radio>
@@ -37,11 +37,11 @@
                              inner="#333333ff"
                              inner_sel="#f49c1cff"
                              item="#494949ff"
-                             text="#999999"
+                             text="#808080"
                              text_sel="#000000"
-                             show_shaded="FALSE"
-                             shadetop="-15"
-                             shadedown="-39">
+                             show_shaded="TRUE"
+                             shadetop="-10"
+                             shadedown="2">
           </ThemeWidgetColors>
         </wcol_radio>
         <wcol_text>
@@ -51,9 +51,9 @@
                              item="#000000ff"
                              text="#cccccc"
                              text_sel="#e6e6e6"
-                             show_shaded="FALSE"
-                             shadetop="-11"
-                             shadedown="20">
+                             show_shaded="TRUE"
+                             shadetop="-10"
+                             shadedown="2">
           </ThemeWidgetColors>
         </wcol_text>
         <wcol_option>
@@ -82,14 +82,14 @@
         </wcol_toggle>
         <wcol_num>
           <ThemeWidgetColors outline="#1a1a1a"
-                             inner="#494949ff"
+                             inner="#333333ff"
                              inner_sel="#999999ff"
-                             item="#999999ff"
+                             item="#808080ff"
                              text="#cccccc"
                              text_sel="#000000"
                              show_shaded="FALSE"
-                             shadetop="-13"
-                             shadedown="-2">
+                             shadetop="-10"
+                             shadedown="5">
           </ThemeWidgetColors>
         </wcol_num>
         <wcol_numslider>
@@ -100,8 +100,8 @@
                              text="#cccccc"
                              text_sel="#cccccc"
                              show_shaded="FALSE"
-                             shadetop="6"
-                             shadedown="-10">
+                             shadetop="10"
+                             shadedown="-2">
           </ThemeWidgetColors>
         </wcol_numslider>
         <wcol_box>
@@ -123,9 +123,9 @@
                              item="#ccccccff"
                              text="#cacaca"
                              text_sel="#1f1f1f"
-                             show_shaded="FALSE"
-                             shadetop="-25"
-                             shadedown="-50">
+                             show_shaded="TRUE"
+                             shadetop="-10"
+                             shadedown="2">
           </ThemeWidgetColors>
         </wcol_menu>
         <wcol_pulldown>
@@ -298,12 +298,12 @@
                    paint_curve_pivot="#ff7f7f7f">
         <space>
           <ThemeSpaceGradient title="#1f1f1f"
-                              text="#000000"
+                              text="#1a1a1a"
                               text_hi="#e6e6e6"
                               header="#808080"
                               header_text="#b3b3b3"
                               header_text_hi="#b3b3b3"
-                              button="#595959b3"
+                              button="#595959e6"
                               button_title="#000000"
                               button_text="#000000"
                               button_text_hi="#b3b3b3"
