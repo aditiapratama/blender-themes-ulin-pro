@@ -33,7 +33,7 @@
           </ThemeWidgetColors>
         </wcol_tool>
         <wcol_radio>
-          <ThemeWidgetColors outline="#666666"
+          <ThemeWidgetColors outline="#1a1a1a"
                              inner="#333333ff"
                              inner_sel="#f49c1cff"
                              item="#494949ff"
@@ -309,7 +309,7 @@
                               button_text="#000000"
                               button_text_hi="#b3b3b3"
                               tab_active="#f49c1c"
-                              tab_inactive="#666666"
+                              tab_inactive="#595959"
                               tab_back="#464646ff"
                               tab_outline="#333333">
             <gradients>
@@ -589,7 +589,7 @@
                              button_text="#000000"
                              button_text_hi="#000000"
                              tab_active="#f49c1c"
-                             tab_inactive="#666666"
+                             tab_inactive="#595959"
                              tab_back="#464646ff"
                              tab_outline="#333333">
             <panelcolors>
@@ -780,7 +780,7 @@
                              button_text="#000000"
                              button_text_hi="#000000"
                              tab_active="#f49c1c"
-                             tab_inactive="#666666"
+                             tab_inactive="#7f7f7f"
                              tab_back="#464646ff"
                              tab_outline="#333333">
             <panelcolors>
@@ -998,7 +998,7 @@
                              button_text="#000000"
                              button_text_hi="#ffffff"
                              tab_active="#f49c1c"
-                             tab_inactive="#666666"
+                             tab_inactive="#7f7f7f"
                              tab_back="#464646ff"
                              tab_outline="#333333">
             <panelcolors>
