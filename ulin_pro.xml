@@ -5,7 +5,7 @@
                           menu_shadow_width="12"
                           icon_file=""
                           icon_alpha="1"
-                          widget_emboss="#00000020"
+                          widget_emboss="#0000005"
                           axis_x="#c53131"
                           axis_y="#62c542"
                           axis_z="#3e3ecf">
@@ -731,7 +731,7 @@
     <timeline>
       <ThemeTimeline grid="#4e4e4e"
                      frame_current="#ff8c00"
-                     time_keyframe="#000000"
+                     time_keyframe="#00ada8"
                      time_grease_pencil="#000000">
         <space>
           <ThemeSpaceGeneric back="#4d4d4d"
@@ -855,7 +855,7 @@
       <ThemeOutliner match="#aff193"
                      selected_highlight="#80520f">
         <space>
-          <ThemeSpaceGeneric back="#595959"
+          <ThemeSpaceGeneric back="#444444"
                              title="#f2f2f2"
                              text="#cccccc"
                              text_hi="#f2f2f2"
