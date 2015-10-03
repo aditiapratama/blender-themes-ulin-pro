@@ -154,15 +154,15 @@
           </ThemeWidgetColors>
         </wcol_menu_back>
         <wcol_pie_menu>
-          <ThemeWidgetColors outline="#996212"
-                             inner="#262626ff"
-                             inner_sel="#595959ff"
-                             item="#404040ff"
+          <ThemeWidgetColors outline="#1a1a1a"
+                             inner="#404040e6"
+                             inner_sel="#fec343ff"
+                             item="#fec343e6"
                              text="#b3b3b3"
-                             text_sel="#e6e6e6"
-                             show_shaded="FALSE"
-                             shadetop="10"
-                             shadedown="-8">
+                             text_sel="#1f1f1f"
+                             show_shaded="TRUE"
+                             shadetop="15"
+                             shadedown="-15">
           </ThemeWidgetColors>
         </wcol_pie_menu>
         <wcol_tooltip>
