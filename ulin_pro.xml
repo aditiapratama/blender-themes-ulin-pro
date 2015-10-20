@@ -238,7 +238,7 @@
       </ThemeUserInterface>
     </user_interface>
     <view_3d>
-      <ThemeView3D grid="#4e4e4e"
+      <ThemeView3D grid="#808080"
                    wire="#e6e6e6"
                    wire_edit="#000000"
                    gp_vertex="#000000"
@@ -247,8 +247,8 @@
                    lamp="#e6e6e6ff"
                    speaker="#000000"
                    camera="#e6e6e6"
-                   view_overlay="#000000"
-                   empty="#000000"
+                   view_overlay="#CCCCCC"
+                   empty="#97C0FF"
                    object_selected="#c54620"
                    object_active="#e89c00"
                    object_grouped="#083008"
@@ -319,8 +319,8 @@
                               tab_outline="#333333">
             <gradients>
               <ThemeGradientColors show_grad="TRUE"
-                                   gradient="#191919"
-                                   high_gradient="#444444">
+                                   gradient="#4F4F4F"
+                                   high_gradient="#333333">
               </ThemeGradientColors>
             </gradients>
             <panelcolors>
@@ -335,41 +335,41 @@
       </ThemeView3D>
     </view_3d>
     <graph_editor>
-      <ThemeGraphEditor grid="#4e4e4e"
-                        frame_current="#ff8c00"
+      <ThemeGraphEditor grid="#5e5e5e"
+                        frame_current="#fec343"
                         window_sliders="#000000"
                         channels_region="#707070"
                         dopesheet_channel="#002f74"
                         dopesheet_subchannel="#4982d4"
                         channel_group="#000000"
                         active_channels_group="#0c3f00"
-                        vertex="#1a110d"
-                        vertex_select="#ffcb80"
-                        vertex_size="4"
+                        vertex="#000000"
+                        vertex_select="#fec343"
+                        vertex_size="3"
                         vertex_unreferenced="#000000"
                         handle_free="#000000"
-                        handle_auto="#696969"
-                        handle_vect="#191919"
-                        handle_sel_vect="#ececec"
-                        handle_align="#1d1d1d"
-                        handle_sel_free="#ececec"
-                        handle_sel_auto="#d4d4d4"
+                        handle_auto="#909000"
+                        handle_vect="#409030"
+                        handle_sel_vect="#40c030"
+                        handle_align="#803060"
+                        handle_sel_free="#000000"
+                        handle_sel_auto="#f0ff40"
                         handle_sel_align="#f3f3f3"
-                        handle_auto_clamped="#000000"
-                        handle_sel_auto_clamped="#000000"
-                        lastsel_point="#000000"
-                        handle_vertex="#333333"
-                        handle_vertex_select="#f1f1f1"
-                        handle_vertex_size="4">
+                        handle_auto_clamped="#994030"
+                        handle_sel_auto_clamped="#f0af90"
+                        lastsel_point="#ffffff"
+                        handle_vertex="#000000"
+                        handle_vertex_select="#fec343"
+                        handle_vertex_size="3">
         <space>
-          <ThemeSpaceGeneric back="#595959"
+          <ThemeSpaceGeneric back="#6b6b6b"
                              title="#000000"
                              text="#000000"
                              text_hi="#ffffff"
                              header="#595959"
                              header_text="#000000"
                              header_text_hi="#ffffff"
-                             button="#494949e6"
+                             button="#666666ff"
                              button_title="#000000"
                              button_text="#000000"
                              button_text_hi="#ffffff"
@@ -441,7 +441,7 @@
                       active_action="#6e78852f"
                       active_action_unset="#00000000"
                       strips="#463c3c"
-                      strips_selected="#ff8c00"
+                      strips_selected="#fec343"
                       transition_strips="#535353"
                       transition_strips_selected="#000000"
                       meta_strips="#3f3f3f"
@@ -452,7 +452,7 @@
                       tweak_duplicate="#000000"
                       keyframe_border="#000000ff"
                       keyframe_border_selected="#000000ff"
-                      frame_current="#ff8c00">
+                      frame_current="#fec343">
         <space>
           <ThemeSpaceGeneric back="#666666"
                              title="#000000"
@@ -489,7 +489,7 @@
     </nla_editor>
     <dopesheet_editor>
       <ThemeDopeSheet grid="#4e4e4e"
-                      frame_current="#ff8c00"
+                      frame_current="#fec343"
                       value_sliders="#000000"
                       view_sliders="#898989"
                       dopesheet_channel="#002f74"
@@ -499,7 +499,7 @@
                       channel_group="#000000"
                       active_channels_group="#0c3f00"
                       long_key="#0c0a0a"
-                      long_key_selected="#ff8c00"
+                      long_key_selected="#fec343"
                       keyframe="#e8e8e8"
                       keyframe_selected="#ffbe32"
                       keyframe_extreme="#e8b3cc"
@@ -510,7 +510,7 @@
                       keyframe_jitter_selected="#61c042"
                       keyframe_border="#000000ff"
                       keyframe_border_selected="#000000ff"
-                      summary="#fec34366">
+                      summary="#00153366">
         <space>
           <ThemeSpaceGeneric back="#595959"
                              title="#ffffff"
@@ -627,7 +627,7 @@
                            effect_strip="#a9547c"
                            transition_strip="#a25f6f"
                            meta_strip="#6d9183"
-                           frame_current="#ff8c00"
+                           frame_current="#fec343"
                            keyframe="#ff9f00"
                            draw_action="#50c8ff"
                            preview_back="#000000"
@@ -994,9 +994,9 @@
                        locked_marker="#7f7f7f"
                        path_before="#ff0000"
                        path_after="#0000ff"
-                       frame_current="#ff8c00"
+                       frame_current="#fec343"
                        strips="#0c0a0a"
-                       strips_selected="#ff8c00"
+                       strips_selected="#fec343"
                        handle_free="#000000"
                        handle_auto="#909000"
                        handle_align="#803060"
