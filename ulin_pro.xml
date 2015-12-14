@@ -242,7 +242,7 @@
                    wire="#e6e6e6"
                    wire_edit="#000000"
                    gp_vertex="#000000"
-                   gp_vertex_select="#000000"
+                   gp_vertex_select="#ff8a00"
                    gp_vertex_size="1"
                    lamp="#e6e6e6ff"
                    speaker="#000000"
@@ -547,7 +547,7 @@
     </dopesheet_editor>
     <image_editor>
       <ThemeImageEditor gp_vertex="#000000"
-                        gp_vertex_select="#000000"
+                        gp_vertex_select="#ff8a00"
                         gp_vertex_size="1"
                         vertex="#f73c00"
                         vertex_select="#df9600"
@@ -615,7 +615,7 @@
     </image_editor>
     <sequence_editor>
       <ThemeSequenceEditor gp_vertex="#000000"
-                           gp_vertex_select="#000000"
+                           gp_vertex_select="#ff8a00"
                            gp_vertex_size="1"
                            grid="#4e4e4e"
                            window_sliders="#777777"
@@ -762,7 +762,7 @@
     </timeline>
     <node_editor>
       <ThemeNodeEditor gp_vertex="#000000"
-                       gp_vertex_select="#000000"
+                       gp_vertex_select="#ff8a00"
                        gp_vertex_size="3"
                        node_selected="#ffffff"
                        node_active="#ffffff"
@@ -984,7 +984,7 @@
     </console>
     <clip_editor>
       <ThemeClipEditor gp_vertex="#000000"
-                       gp_vertex_select="#000000"
+                       gp_vertex_select="#ff8a00"
                        gp_vertex_size="1"
                        marker_outline="#000000"
                        marker="#7f7f00"
