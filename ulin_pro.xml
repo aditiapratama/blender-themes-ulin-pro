@@ -398,20 +398,20 @@
       </ThemeGraphEditor>
     </graph_editor>
     <file_browser>
-      <ThemeFileBrowser selected_file="#fec343"
-                        scrollbar="#4d4b4d"
-                        scroll_handle="#8c8a88"
-                        active_file="#fec343"
+      <ThemeFileBrowser selected_file="#424242"
+                        scrollbar="#757575"
+                        scroll_handle="#616161"
+                        active_file="#ff8f00"
                         active_file_text="#ffffff">
         <space>
-          <ThemeSpaceGeneric back="#333333"
+          <ThemeSpaceGeneric back="#546e7a"
                              title="#ffffff"
                              text="#f2f2f2"
                              text_hi="#ffffff"
                              header="#808080"
                              header_text="#000000"
                              header_text_hi="#ffffff"
-                             button="#595959ff"
+                             button="#757575ff"
                              button_title="#cacaca"
                              button_text="#161616"
                              button_text_hi="#ffffff"
@@ -420,7 +420,7 @@
                              tab_back="#464646ff"
                              tab_outline="#3c3c3c">
             <panelcolors>
-              <ThemePanelColors header="#0000000d"
+              <ThemePanelColors header="#61616180"
                                 back="#59595991"
                                 show_header="TRUE"
                                 show_back="FALSE">
@@ -429,7 +429,7 @@
           </ThemeSpaceGeneric>
         </space>
         <space_list>
-          <ThemeSpaceListGeneric list="#595959"
+          <ThemeSpaceListGeneric list="#757575"
                                  list_title="#000000"
                                  list_text="#000000"
                                  list_text_hi="#ffffff">
@@ -633,11 +633,11 @@
                            frame_current="#66bb6a"
                            keyframe="#ffbe32"
                            draw_action="#4dd0e1"
-                           preview_back="#424242"
+                           preview_back="#212121"
                            metadatabg="#424242"
                            metadatatext="#fafafa">
         <space>
-          <ThemeSpaceGeneric back="#616161"
+          <ThemeSpaceGeneric back="#757575"
                              title="#212121"
                              text="#212121"
                              text_hi="#fafafa"
