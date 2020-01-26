@@ -28,12 +28,12 @@
         >
         <wcol_regular>
           <ThemeWidgetColors
-            outline="#424242"
-            inner="#80808040"
-            inner_sel="#ffc107ff"
+            outline="#212121"
+            inner="#21212140"
+            inner_sel="#f6b90180"
             item="#ccccccff"
             text="#cccccc"
-            text_sel="#212121"
+            text_sel="#e6e6e6"
             show_shaded="TRUE"
             shadetop="10"
             shadedown="-20"
@@ -179,7 +179,7 @@
         <wcol_menu>
           <ThemeWidgetColors
             outline="#424242"
-            inner="#80808040"
+            inner="#21212199"
             inner_sel="#bfbfbf80"
             item="#ccccccff"
             text="#cccccc"
@@ -194,7 +194,7 @@
         <wcol_pulldown>
           <ThemeWidgetColors
             outline="#757575"
-            inner="#757575ff"
+            inner="#212121cc"
             inner_sel="#ffc107ff"
             item="#ccccccff"
             text="#cccccc"
@@ -331,7 +331,7 @@
           <ThemeWidgetColors
             outline="#212121"
             inner="#2b2b2bff"
-            inner_sel="#424242ff"
+            inner_sel="#404040ff"
             item="#2b2b2bff"
             text="#cccccc"
             text_sel="#e6e6e6"
@@ -419,18 +419,18 @@
         <space>
           <ThemeSpaceGradient
             title="#212121"
-            text="#212121"
+            text="#cccccc"
             text_hi="#cccccc"
             header="#55555500"
             header_text="#e6e6e6"
             header_text_hi="#ffff00"
             button="#26262600"
             button_title="#cccccc"
-            button_text="#e6e6e6"
+            button_text="#cccccc"
             button_text_hi="#cccccc"
             navigation_bar="#00000000"
             execution_buts="#00000000"
-            tab_active="#806104"
+            tab_active="#212121"
             tab_inactive="#424242"
             tab_back="#21212126"
             tab_outline="#212121"
@@ -814,7 +814,7 @@
             button_text_hi="#cccccc"
             navigation_bar="#00000000"
             execution_buts="#00000000"
-            tab_active="#806104"
+            tab_active="#ffc107"
             tab_inactive="#424242"
             tab_back="#21212126"
             tab_outline="#212121"
@@ -954,7 +954,7 @@
             button_text_hi="#757575"
             navigation_bar="#00000000"
             execution_buts="#00000000"
-            tab_active="#806104"
+            tab_active="#ffc107"
             tab_inactive="#424242"
             tab_back="#21212126"
             tab_outline="#212121"
